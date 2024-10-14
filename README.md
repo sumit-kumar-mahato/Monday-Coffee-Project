@@ -10,6 +10,7 @@ The goal of this project is to analyse the sales data of Monday Coffee, a compan
 
 Outcome: 
 After analysing the data, the recommended top three cities for new store openings are:
+
 City 1: Pune
 1.	Average rent per customer is very low.
 2.	Highest total revenue.
